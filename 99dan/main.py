@@ -51,7 +51,7 @@ def IllllllllllI(IlIlIIlIII, f):
     IlllIIlIll.close()
     IIIlIIIIII+=1
 
-def IIlllIIlIllll(IIlIIlllI):
+def IIlllIIlIllll():
   IIllllll = []
   for IIllllllI in range(3):
     IIllllllI.append('IIIIlIll')

